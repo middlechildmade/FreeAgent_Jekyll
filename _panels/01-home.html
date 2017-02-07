@@ -1,0 +1,28 @@
+---
+html_id: home
+class: special
+title: Home
+image: /images/pic05.jpg
+position: center center
+---
+
+<header>
+	<h1>{{ site.title }}</h1>
+	<p>Graphic design portfolio</p>
+</header>
+<nav id="nav">
+	<ul class="actions vertical special spinY">
+		{% for panel in site.panels %}
+			{% unless panel.title == "Home" %}
+        {% unless panel.class == "special2" %}
+				<li><a href="#{{ panel.html_id }}" class="button">{{ panel.title }}</a></li>
+			{% endunless %}
+        {% endunless %}
+		{% endfor %}
+	</ul>
+</nav>
+<ul class="actions special">
+	<li><a href="#resume" class="button special icon fa-file">Resume</a></li>
+	<li><a href="#contact" class="button special icon fa-envelope">Contact</a></li>
+    <li><a href="http://www.linkedin.com/in/joesergenian" target="_blank" class="button special icon fa-linkedin">Linkedin</a></li>
+</ul>
