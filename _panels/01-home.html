@@ -8,13 +8,13 @@ position: center center
 
 <header>
 	<h1>{{ site.title }}</h1>
-	<p>Graphic design portfolio</p>
+	<p>portfolio</p>
 </header>
 <nav id="nav">
 	<ul class="actions vertical special spinY">
 		{% for panel in site.panels %}
 			{% unless panel.title == "Home" %}
-        {% unless panel.class == "special2" %}
+            {% unless panel.class == "special2" %}
 				<li><a href="#{{ panel.html_id }}" class="button">{{ panel.title }}</a></li>
 			{% endunless %}
         {% endunless %}
