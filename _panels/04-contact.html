@@ -9,19 +9,20 @@ position: bottom center
 <header>
 	<h2>Contact</h2>
 </header>
-<form method="post" action="#">
+<form method="post" action="https://formspree.io/joe@middlechildmade.com">
 	<div class="field half first">
 		<label for="name">Name</label>
 		<input type="text" name="name" id="name" />
 	</div>
 	<div class="field half">
 		<label for="email">Email</label>
-		<input type="text" name="email" id="email" />
+		<input type="text" name="_replyto" id="email" />
 	</div>
 	<div class="field">
 		<label for="message">Message</label>
 		<textarea name="message" id="message" rows="5"></textarea>
 	</div>
+    <input type="hidden" name="_subject" value="Contact Form - JoeSergenian.com" />
 	<ul class="actions">
 		<li><a href="" class="button submit">Send Message</a></li>
 	</ul>
