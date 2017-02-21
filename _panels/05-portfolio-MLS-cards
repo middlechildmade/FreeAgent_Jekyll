@@ -1,0 +1,69 @@
+---
+html_id: mina-lee-studio-cards
+title: Mina Lee Studio - Greeting Cards
+image: /images/MLS-369.jpg
+position: center center
+---
+
+<header>
+	<h2>{{ page.title }}</h2>
+    <p>Catalog</p>
+</header>
+<h3>Images</h3>
+<section class="gallery">
+						<div class="portfolio_column">
+				            <article class="gallery_width work-item">
+								<a href="images/MLS-369.jpg" class="image fit thumb"><img src="images/MLS-369.jpg" alt="" /></a>
+                                <h3 style="display:none">Mina Lee Studio Greeting Card</h3>
+							</article>
+							<article class="gallery_width work-item">
+								<a href="images/MLS-385.jpg" class="image fit thumb"><img src="images/MLS-385.jpg" alt="" /></a>
+                                <h3 style="display:none">Mina Lee Studio Greeting Card</h3>
+							</article>
+							 <article class="gallery_width work-item">
+								<a href="images/MLS-394.jpg" class="image fit thumb"><img src="images/MLS-394.jpg" alt="" /></a>
+                                <h3 style="display:none">Mina Lee Studio Greeting Card</h3>
+							</article>
+							<article class="gallery_width work-item">
+								<a href="images/MLS-404.jpg" class="image fit thumb"><img src="images/MLS-404.jpg" alt="" /></a>
+                                <h3 style="display:none">Mina Lee Studio Greeting Card</h3>
+							</article>
+                            <article class="gallery_width work-item">
+								<a href="images/MLS-405.jpg" class="image fit thumb"><img src="images/MLS-405.jpg" alt="" /></a>
+                                <h3 style="display:none">Mina Lee Studio Greeting Card</h3>
+							</article>
+                            <article class="gallery_width work-item">
+								<a href="images/MLS-406.jpg" class="image fit thumb"><img src="images/MLS-406.jpg" alt="" /></a>
+                                <h3 style="display:none">Mina Lee Studio Greeting Card</h3>
+							</article>
+                            <article class="gallery_width work-item">
+								<a href="images/MLS-407.jpg" class="image fit thumb"><img src="images/MLS-407.jpg" alt="" /></a>
+                                <h3 style="display:none">Mina Lee Studio Greeting Card</h3>
+							</article>
+                            <article class="gallery_width work-item">
+								<a href="images/MLS-408.jpg" class="image fit thumb"><img src="images/MLS-408.jpg" alt="" /></a>
+                                <h3 style="display:none">Mina Lee Studio Greeting Card</h3>
+							</article>
+                            <article class="gallery_width work-item">
+								<a href="images/MLS-409.jpg" class="image fit thumb"><img src="images/MLS-409.jpg" alt="" /></a>
+                                <h3 style="display:none">Mina Lee Studio Greeting Card</h3>
+							</article>
+                            <article class="gallery_width work-item">
+								<a href="images/MLS-412.jpg" class="image fit thumb"><img src="images/MLS-412.jpg" alt="" /></a>
+                                <h3 style="display:none">Mina Lee Studio Greeting Card</h3>
+							</article>
+                            <article class="gallery_width work-item">
+								<a href="images/MLS-413.jpg" class="image fit thumb"><img src="images/MLS-413.jpg" alt="" /></a>
+                                <h3 style="display:none">Mina Lee Studio Greeting Card</h3>
+							</article>
+                            <article class="gallery_width work-item">
+								<a href="images/MLS-415.jpg" class="image fit thumb"><img src="images/MLS-415.jpg" alt="" /></a>
+                                <h3 style="display:none">Mina Lee Studio Greeting Card</h3>
+							</article>
+                            <article class="gallery_width work-item">
+								<a href="images/MLS-416.jpg" class="image fit thumb"><img src="images/MLS-416.jpg" alt="" /></a>
+                                <h3 style="display:none">Mina Lee Studio Greeting Card</h3>
+							</article>
+						</div>
+</section>
+<p>Mina Lee Studio is a greeting card and gifts company I own and operate</p>
