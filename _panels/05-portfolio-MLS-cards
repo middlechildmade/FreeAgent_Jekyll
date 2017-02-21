@@ -1,13 +1,13 @@
 ---
 html_id: mina-lee-studio-cards
-title: Mina Lee Studio - Greeting Cards
-image: /images/MLS-369.jpg
+title: Mina Lee Studio
+image: /images/MLS-385.jpg
 position: center center
 ---
 
 <header>
 	<h2>{{ page.title }}</h2>
-    <p>Catalog</p>
+    <p>Greeting Cards</p>
 </header>
 <h3>Images</h3>
 <section class="gallery">
@@ -22,18 +22,6 @@ position: center center
 							</article>
                             <article class="gallery_width work-item">
 								<a href="images/MLS-405.jpg" class="image fit thumb"><img src="images/MLS-405.jpg" alt="" /></a>
-                                <h3 style="display:none">Mina Lee Studio Greeting Card</h3>
-							</article>
-                            <article class="gallery_width work-item">
-								<a href="images/MLS-407.jpg" class="image fit thumb"><img src="images/MLS-407.jpg" alt="" /></a>
-                                <h3 style="display:none">Mina Lee Studio Greeting Card</h3>
-							</article>
-                            <article class="gallery_width work-item">
-								<a href="images/MLS-409.jpg" class="image fit thumb"><img src="images/MLS-409.jpg" alt="" /></a>
-                                <h3 style="display:none">Mina Lee Studio Greeting Card</h3>
-							</article>
-                            <article class="gallery_width work-item">
-								<a href="images/MLS-412.jpg" class="image fit thumb"><img src="images/MLS-412.jpg" alt="" /></a>
                                 <h3 style="display:none">Mina Lee Studio Greeting Card</h3>
 							</article>
                             <article class="gallery_width work-item">
