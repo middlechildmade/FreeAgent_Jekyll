@@ -1,7 +1,7 @@
 # Site settings
 title: Joe Sergenian Portfolio
 tagline: portfolio
-description: > Online portfolio for Joe Sergenian
+description: Online portfolio for Joe Sergenian
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.joesergenian.com" # the base hostname & protocol for your site
 
