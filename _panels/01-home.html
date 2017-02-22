@@ -11,13 +11,19 @@ position: center center
 	<p>portfolio</p>
 </header>
 <nav id="nav">
-	<ul class="actions vertical special spinY">
+    <ul class="actions special spinY">
 		{% for panel in site.panels %}
-			{% unless panel.title == "Home" %}
-            {% unless panel.class == "special2" %}
+            {% if panel.class == "mls" %}
 				<li><a href="#{{ panel.html_id }}" class="button">{{ panel.title }}</a></li>
-			{% endunless %}
-        {% endunless %}
+			{% endif %}
+		{% endfor %}
+	</ul>
+    <div class="horizontal"> </div>
+    <ul class="actions vertical special spinY">
+		{% for panel in site.panels %}
+            {% if panel.class == "portfolio" %}
+				<li><a href="#{{ panel.html_id }}" class="button">{{ panel.title }}</a></li>
+			{% endif %}
 		{% endfor %}
 	</ul>
 </nav>
